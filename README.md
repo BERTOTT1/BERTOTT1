@@ -24,9 +24,7 @@ benjamim.mendes@escola.pr.gov.br
 ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
-
-
+![](https://giphy.com/gifs/ufc-mma-ufc-205-3oz8xBE9Nn18hK0iac)
 <!--
 
 
